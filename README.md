@@ -17,6 +17,10 @@ Este é um site simples para uma imobiliária fictícia chamada **Imobiliária S
 
 ## Preview
 
+**Clique aqui para acessar:**
+
+https://mwgeez.github.io/site-imobiliaria-santos
+
 <img width="1856" height="955" alt="Image" src="https://github.com/user-attachments/assets/a0e975a2-0084-4df7-8a88-d1b839bc60c1" />
 
 ## Contato
